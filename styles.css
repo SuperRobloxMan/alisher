@@ -1,0 +1,19 @@
+.hello {
+    text-align: center;
+    font-family:'Courier New', Courier, monospace;
+    background-color: #01103b;
+    color: #00bfff
+}
+body {
+    background-color: #01103b;
+}
+.alisher {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 800px;
+}
+.karimov {
+    width: 1500px;
+    height: auto;
+}
